@@ -1,4 +1,4 @@
-## A collection of Jupyter notebooks covering the basics of Python, Jupyter, and geospatial processing.
+## A collection of Jupyter notebooks covering the basics of Python, Jupyter, data wrangling and geospatial processing.
 
  - [colormap reference cmap](colormap-reference-cmap.ipynb)  
  - [geopandas 101](geopandas-101.ipynb)  
