@@ -4,6 +4,7 @@
  - [geopandas 101](geopandas-101.ipynb)  
  - [jupyter shortcuts](jupyter-shortcuts.ipynb)  
  - [markdown tips & tricks](markdown-tips-tricks.ipynb)  
+ - [pandas quick reference](pandas-quick-reference.md)
  - [python basics](python-basics.ipynb)  
  - [understanding matplotlib](understanding-matplotlib.ipynb)  
  - [understanding missing data using missingno and pandas-summary](understanding-missing-data-using-missingno-and-pandas-summary.ipynb)  
