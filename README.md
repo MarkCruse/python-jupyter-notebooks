@@ -3,7 +3,6 @@
  - [bash command reference](bash-command-reference.md)
  - [cleaning data - overview](cleaning-data-overview.md)
  - [colormap reference cmap](colormap-reference-cmap.ipynb)  
- - [geopandas 101](geopandas-101.ipynb)  
  - [jupyter shortcuts](jupyter-shortcuts.ipynb)  
  - [markdown tips & tricks](markdown-tips-tricks.ipynb)  
  - [pandas quick reference](pandas-quick-reference.md)
